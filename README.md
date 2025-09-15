@@ -62,9 +62,10 @@ To create an AWS account, set up a root user, and create an IAM user with admini
 
 ## Output
 
+<img width="1920" height="1200" alt="Screenshot 2025-09-15 134941" src="https://github.com/user-attachments/assets/32ec0390-2e40-48d7-b0eb-d90cd2d048a8" />
+
 <img width="1920" height="1200" alt="Screenshot 2025-09-15 134828" src="https://github.com/user-attachments/assets/698a38c8-e4e6-498e-b537-f00b4536e6be" />
 
 
 <img width="1920" height="1200" alt="Screenshot 2025-09-15 134901" src="https://github.com/user-attachments/assets/d8a4f72a-98b1-4164-953e-3ab5782de96b" />
 
-<img width="1920" height="1200" alt="Screenshot 2025-09-15 134941" src="https://github.com/user-attachments/assets/32ec0390-2e40-48d7-b0eb-d90cd2d048a8" />
