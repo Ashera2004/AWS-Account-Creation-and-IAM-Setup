@@ -72,5 +72,5 @@ To create an AWS account, set up a root user, and create an IAM user with admini
 
 ## Result
 
-You successfully created an AWS account, set up the root user, and added an IAM user with full administrative access.
+We have successfully created an AWS account, set up the root user, and added an IAM user with full administrative access.
 
