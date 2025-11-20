@@ -70,3 +70,7 @@ To create an AWS account, set up a root user, and create an IAM user with admini
 
 <img width="1920" height="1200" alt="Screenshot 2025-09-15 134901" src="https://github.com/user-attachments/assets/d8a4f72a-98b1-4164-953e-3ab5782de96b" />
 
+## Result
+
+You successfully created an AWS account, set up the root user, and added an IAM user with full administrative access.
+
